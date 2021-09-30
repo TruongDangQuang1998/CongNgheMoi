@@ -1,0 +1,65 @@
+đồ án công nghệ mới
+-quản lý tài khoản(admin) - block
+-tự quản lý tài khoản(đăng ký, đổi mất khẩu,quên mật khẩu, kích hoạt tài khoản(sdt), xóa tài khoản)
+-nhắn tin 1-1
+-nhắn tin nhóm
+-thêm bạn (bằng số điện thoại)
+-gửi 
+	+lv1 :text, image
+	+lv2 :video, documents(target)api tải file
+	+lv3 :videocall (nhóm)
+
+Cho phép quản lý danh bạ điện thoại của người dùng (tuần 5-6) 
++truy cập danh bạ (cấp quyền từ danh bạ gợi ý kết bạn)
++xác thực tài khoản (firebase ) tìm thử có công nghệ nào khác không 
+
+database mysql
+
+
+history
+
+
+thứ 5 (23/09)
+usecase tổng quát
+usecase chi tiết cho những cái quan trọng
+
+Xác thực tài khoảng - Ly
+kích hoạt tài khoản bằng số điện thoại - Quang
+Truy cập danh bạ - Hiếu
+chọn CSDL thích hợp - Mỹ với Phát
+
+
+
+
+
+
+
+1 2 3 7 9
+
+
+thiếu hủy kết bạn
+block bạn bè
+
+
+
+
+
+30/09/2021
+Tech
+-DB: mongoDB
+-web: Quang + Ly
+	Reactjs/Angular + Nodejs 
+	Reactjs =>ReactNative mobile
+	Angular -> task Cty
+-mobile: Hiếu Phát Mỹ
+	ReactNative
+
+-mockup
+	Quang : vẽ cơ bản
+	//Mọi người cùng tìm hiểu
+-mogodb khác với sqlserver ra sao?
+-biết các câu lên cơ bản (insert, delete, update,query)
+-các trigger ,stored procedure, func....có hay không nếu không có thì có cái gì khác không
+-Khóa ngoại khóa chính trong table lưu như thế nào
+-create tabel,create database,
+- setup môi trường cài đặt
