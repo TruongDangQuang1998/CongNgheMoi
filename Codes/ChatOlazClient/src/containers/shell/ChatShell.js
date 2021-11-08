@@ -368,7 +368,7 @@ class ChatShell extends React.Component {
                                       
                                         <div className="conversation-message">
                                 {/* messages */}
-                                            {items.messages[items.messages.length-1].messageText}
+                                            {/* {items.messages[items.messages.length-1].messageText} */}
                                         </div>
                                     </div>
                                 </>

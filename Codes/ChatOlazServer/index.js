@@ -655,7 +655,7 @@ app.delete('/api/delete', (req, res) => {
     })
 });
 app.post('/api/insert', [
-    check("ten", "hoang").not().isEmpty(),
+    check("ten", "quang").not().isEmpty(),
     check("sdt", "0898123564").isLength({ min: 10, max: 10 }),
 ], async (req, res) => {
     const ten = req.body.ten
